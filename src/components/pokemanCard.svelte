@@ -1,5 +1,4 @@
 <script>
-	import { fade } from 'svelte/transition';
 	export let valueOfPokemon;
 </script>
 
